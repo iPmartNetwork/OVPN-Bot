@@ -4,7 +4,7 @@
 </picture>
   </p> 
 <p align="center">
-<h1 align="center"/>OVPN-BoT</h1>
+<h1 align="center"/>OVPN-Bot</h1>
 <h6 align="center">OpenVpn Telegram Bot<h6>
 </p>
 
